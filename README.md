@@ -1,5 +1,5 @@
 Stopwatch Application:
-This is a simple stopwatch application built using HTML, CSS, and JavaScript. The app allows users to start, pause, reset the timer, and save specific time intervals as laps. It is designed for use in activities such as motocross training, but it can be adapted to other timing needs.
+This is a simple stopwatch application built using HTML, CSS, and JavaScript. The app allows users to start, pause, reset the timer, and save specific time intervals as laps. It is designed for use in activities such as all training, but it can be adapted to other timing needs.
 
 Features:
 Start, Pause, Reset: Control the timer with ease.
